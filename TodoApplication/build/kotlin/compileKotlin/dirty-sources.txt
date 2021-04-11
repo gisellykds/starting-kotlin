@@ -1,0 +1,7 @@
+C:\Users\GisellyKathellynDomi\Desktop\Kotlin\TodoApplication\src\main\kotlin\br\com\todo\study\controllers\TodoController.kt
+C:\Users\GisellyKathellynDomi\Desktop\Kotlin\TodoApplication\src\main\kotlin\br\com\todo\study\dao\entities\TodoEntity.kt
+C:\Users\GisellyKathellynDomi\Desktop\Kotlin\TodoApplication\src\main\kotlin\br\com\todo\study\dao\repository\TodoRepository.kt
+C:\Users\GisellyKathellynDomi\Desktop\Kotlin\TodoApplication\src\main\kotlin\br\com\todo\study\dao\TodoDao.kt
+C:\Users\GisellyKathellynDomi\Desktop\Kotlin\TodoApplication\src\main\kotlin\br\com\todo\study\dao\TodoDaoImpl.kt
+C:\Users\GisellyKathellynDomi\Desktop\Kotlin\TodoApplication\src\main\kotlin\br\com\todo\study\domain\enums\StatusEnum.kt
+C:\Users\GisellyKathellynDomi\Desktop\Kotlin\TodoApplication\src\main\kotlin\br\com\todo\study\TodoApplication.kt
